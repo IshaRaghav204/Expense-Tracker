@@ -1,4 +1,4 @@
-# Food Ordering Website
+# Expense Tracker
 
 This is an Expense Tracker application . it is built using React.JS which allows users to add transactions for both expenses and budgets, view their current balance, and track their spending. 
 
@@ -39,6 +39,16 @@ The website will be running at `http://localhost:5173`.
 
 - **React** for building the user interface
 - **Bootstrap** for styling the componets
+
+  ## Bootstrap Integration
+
+  This project uses Bootstrap for responsive layout and UI components, providing a simple and consistent design.
+  The following Bootstrap features are used:
+
+- Buttons for actions (e.g., Add, Cancel).
+- Cards to display budget and expense details.
+- Radio buttons for selecting the type of transaction.
+- Form styling for input fields.
 
 ## Bootstrap Installation
    ```bash
