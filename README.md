@@ -58,6 +58,14 @@ The website will be running at `http://localhost:5173`.
    ```bash
    import 'bootstrap/dist/css/bootstrap.min.css';
    ```
+## Screenshots
+![Screenshot 2024-11-24 155523](https://github.com/user-attachments/assets/f16395d8-5a74-41f9-8552-9456c6e566d0)
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/a3b68eb5-f842-4f60-83c7-b7dc3d900470">
+
+
+
+
+
 
 
 ## License
