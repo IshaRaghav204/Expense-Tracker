@@ -1,0 +1,24 @@
+
+.overview-container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 50px;
+  }
+  
+  .overview {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  .button-section {
+    display: flex;
+    gap: 10px; 
+  }
+
+  
+  
