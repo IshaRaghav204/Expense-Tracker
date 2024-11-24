@@ -40,7 +40,7 @@ The website will be running at `http://localhost:5173`.
 - **React** for building the user interface
 - **Bootstrap** for styling the componets
 
-  ## Bootstrap Integration
+## Bootstrap Integration
 
   This project uses Bootstrap for responsive layout and UI components, providing a simple and consistent design.
   The following Bootstrap features are used:
